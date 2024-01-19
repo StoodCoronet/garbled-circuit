@@ -1,4 +1,4 @@
-## Crypto Graphy Project
+## Cryptography Project
 
 This project implement tha grabled circuit based protocol for computing **GE**(a, b), $a=a_1a_0 \in \{0,1\}^2$, and $b=b_1b_0\in\{0,1\}^2$.
 
